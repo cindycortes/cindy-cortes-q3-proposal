@@ -1,4 +1,4 @@
-# Q3 Build-A-Recipe-App
+# Q3 Meal-Prep-App
 
 
 ### Project description:
@@ -6,7 +6,7 @@
   - User's can select favorite recipe 
   
 ### Who uses it?
-- Anyone can use this app who enjoys looking up recipes
+- Bodybuilders, athletes
 
 ### What outputs do they need?(what user sees, data)
 - Users will view current recipes --- 
